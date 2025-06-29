@@ -24,7 +24,7 @@ frontend:
         # expo build:web will produce static assets under web-build/
         - npm run build:web
   artifacts:
-    # Match Expo’s default output folder
+    # Match Expo's default output folder
     baseDirectory: dist
     files:
       - "**/*"

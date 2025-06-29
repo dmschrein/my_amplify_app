@@ -1,0 +1,14 @@
+{
+  "version": "1",
+  "auth": {
+    "userPoolId": "us-east-1_placeholder",
+    "userPoolClientId": "placeholder",
+    "identityPoolId": "us-east-1:placeholder"
+  },
+  "data": {
+    "Todo": {
+      "apiId": "placeholder",
+      "endpoint": "https://placeholder.execute-api.us-east-1.amazonaws.com/graphql"
+    }
+  }
+}
